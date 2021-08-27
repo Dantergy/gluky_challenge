@@ -1,0 +1,6 @@
+__pycache__/
+env/
+excel/*.xlsx
+
+#Not ignore this folder
+!excel/.gitkeep
