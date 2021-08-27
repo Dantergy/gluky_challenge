@@ -13,7 +13,7 @@ Librarías que requieren ser instaladas en un entorno virtual de Python:
  - pip install pandas
  - pip install openpyxl
 
-El archivo **install_libraries.bat** facilita esta tarea de instalación del entorno virtual y librerías, solo requiere que se ejecute y esperar a que instale todo, una vez haya terminado informara y se cerrara la ventana. (En caso de que no se cierre automáticamente, se puede cerrar manualmente una vez haya informado que ha terminado) **(Solo funciona en Windows)**
+**Solo funciona para Windows:** El archivo **install_libraries.bat** facilita esta tarea de instalación del entorno virtual y librerías, solo requiere que se ejecute y esperar a que instale todo, una vez haya terminado informara y se cerrara la ventana. (En caso de que no se cierre automáticamente, se puede cerrar manualmente una vez haya informado que ha terminado) 
 
 Una vez se ha iniciado el entorno virtual con las librerías instaladas, se debe ejecutar el archivo **main.py**. 
 Se le pedirá informacion sobre el rango de fechas para poder generar el reporte, ingresar las fechas con el formato **YYYY-MM-DD**.
